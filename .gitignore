@@ -1,4 +1,6 @@
 main
 a.out
+main.exe
+main.o
 
 !**/main.cpp
